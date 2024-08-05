@@ -1,11 +1,11 @@
 import React from 'react'
 
-const page = () => {
+const ExerciseOne = () => {
   return (
     <div>
-      
+      UNO
     </div>
   )
 }
 
-export default page
+export default ExerciseOne
