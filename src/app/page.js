@@ -7,8 +7,7 @@ const page = () => {
   return (
     <div>
       <ExerciseOne/>
-      <ExerciseTwo/>
-      <ExerciseThree/>
+    
     </div>
   )
 }
